@@ -1,0 +1,82 @@
+[
+    {
+        "_id":1,
+        "name":"Teeth Orthodontics",
+        "price":100,
+        "slots":[
+            "08.00AM - 08.30AM",
+            "08.30AM - 09.00AM",
+            "09.00AM - 09.30AM",
+            "09.30AM - 10.00AM",
+            "10.30AM - 11.00AM",
+            "11:00AM - 11:30AM"
+
+        ]
+    },
+
+    {
+        "_id":2,
+        "name":"Cavity Feeling",
+        "price":120,
+        "slots":[
+            "08.00AM - 08.30AM",
+            "08.30AM - 09.00AM",
+            "09.00AM - 09.30AM",
+            "09.30AM - 10.00AM",
+            "10.30AM - 11.00AM",
+            "11:00AM - 11:30AM"
+
+        ]
+    },
+
+    {
+        "_id":3,
+        "name":"Teeth Whitening",
+        "price":150,
+        "slots":[
+            "08.00AM - 08.30AM",
+            "08.30AM - 09.00AM",
+            "09.00AM - 09.30AM",
+            "09.30AM - 10.00AM",
+            "10.30AM - 11.00AM",
+            "11:00AM - 11:30AM"
+
+        ]
+    },
+    {
+        "_id":4,
+        "name":"Cavity Protection",
+        "price":100,
+        "slots":[
+           
+        ]
+    },
+    {
+        "_id":5,
+        "name":"Pediatric Dental",
+        "price":180,
+        "slots":[
+            "08.00AM - 08.30AM",
+            "08.30AM - 09.00AM",
+            "09.00AM - 09.30AM",
+            "09.30AM - 10.00AM",
+            "10.30AM - 11.00AM",
+            "11:00AM - 11:30AM"
+
+        ]
+    },
+    {
+        "_id":6,
+        "name":"Oral Surgery",
+        "price":190,
+        "slots":[
+            "08.00AM - 08.30AM",
+            "08.30AM - 09.00AM",
+            "09.00AM - 09.30AM",
+            "09.30AM - 10.00AM",
+            "10.30AM - 11.00AM",
+            "11:00AM - 11:30AM"
+
+        ]
+    }
+]
